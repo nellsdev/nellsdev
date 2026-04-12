@@ -1,16 +1,132 @@
-## Hi there 👋
+<p align="right">
+  <a href="./README_EN.md">
+    <img src="https://img.shields.io/badge/Read_in-English-0A66C2?style=flat-square&logo=googletranslate&logoColor=white" />
+  </a>
+</p>
 
-<!--
-**nellsdev/nellsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola,+soy+Nells+👩🏽‍💻🌿" />
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>Ingeniera en Computación · MSc Microelectrónica · Cientifica de Datos · Tecnología para impacto social, salud y clima 🌎</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/nellyrodev/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@nells_it01"><img src="https://img.shields.io/badge/TikTok-@nells_it01-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.instagram.com/nells_it/"><img src="https://img.shields.io/badge/IG-@nells_it-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:nrodriguezo2301@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Mi Cableado (TL;DR)
+
+Todo empezó con un profesor de primaria que me enseñó **HTML** (`<marquee>` incluido).  
+En secundaria y prepa dominé **Pascal, C, C++ y me certifiqué en Cisco CCNA**.  
+En la universidad me enamoré del hardware, los compiladores y el procesamiento de señales.  
+La búsqueda de complejidad me llevó a una **Maestría en Microelectrónica** con tesis en **Hash Perceptual para Voz Cifrada**.
+
+La pandemia y la depresión me frenaron. Pero en medio de esa pausa recordé algo:  
+En la secundaria me hacían juntar PET y hablar de la **Agenda 2030**. Lo que sentía como obligación se volvió **convicción**.
+
+Hoy uso esa base científica sólida para construir herramientas que generen **impacto social, ambiental y de salud**.  
+Porque los datos bien contados salvan vidas, protegen bosques y mejoran políticas públicas.
+
+> *"Lo que no se conoce, no se cuida. No se protege."*
+
+<details>
+<summary><b>📖 Leer la historia completa (El viaje extendido)</b></summary>
+
+<br>
+
+#### 🌱 La Semilla (Primaria)
+Todo empezó con un profesor que me enseñó **HTML**. Recuerdo escribir `index.html` en un bloc de notas y ver cómo aparecían colores, imágenes con movimiento y esas gloriosas etiquetas `<marquee>`. Ahí supe que quería ser programadora.
+
+#### 🌿 Las Raíces (Secundaria y Bachillerato)
+Empecé a entender que programar era **lógica**. Mis primeros lenguajes: **Pascal, Visual Basic, Java, C y C++**. Me certifiqué en **Cisco CCNA Routing & Switching**. Ahí entendí que la información viaja por paquetes y protocolos invisibles. En esa época me hacían **juntar PET, limpiezas comunales y Agenda 2030**. Lo sentía como obligación. No sabía que años después sería mi brújula.
+
+#### 🌳 El Tronco (Ingeniería en Computación)
+Me enamoré de las tripas de la máquina: Arquitectura de Hardware, Lógica Booleana, Compiladores, Sistemas Embebidos, Procesamiento de Señales. Confirmé que no quería ser solo la albañil del código; quería entender la física del cemento.
+
+#### 🌲 Las Ramas Altas (Maestría en Microelectrónica)
+La búsqueda de complejidad me llevó al posgrado: Criptografía, DSP, Hash Perceptual para Voz Cifrada. Aprendí a encontrar patrones donde solo hay ruido. Y también: de nada sirve el conocimiento en un paper que nadie lee.
+
+#### ⛈️ La Tormenta (Pandemia, Depresión y TDAH)
+Mi cerebro a veces no trabaja constante. Se paraliza. Se atravesó una pandemia, una depresión y la sensación de no haber aprovechado mi carrera. *"No puedo demostrar lo que hay en mi cabeza."*
+
+#### 🌼 El Florecimiento (Ahora)
+Recordé el PET. La Agenda 2030. A mi yo de 13 años limpiando la banqueta. Ya no era obligación: era responsabilidad y comunidad. Hoy construyo mi portafolio desde cero, lento pero avanzando. Mi base en señales no es para código perfecto: es para construir herramientas que nos ayuden a **conocer lo que estamos perdiendo** (o lo que podemos sanar).
+
+</details>
+
+---
+
+### 🛠️ El Stack de Nells (Perfil Híbrido)
+
+| 🔬 **Data Science & Señales** | 🖥️ **Prototipado (AI-Assisted)** | 📢 **Divulgación** |
+| :--- | :--- | :--- |
+| Python (Pandas, Sklearn, Librosa) | React / Next.js (Curva acelerada con Cursor) | Contenido Tech & TDAH |
+| MATLAB / Simulink / DSP | Node.js / Flask (Backend ligero) | Comunidad `laagenda.verde` |
+| SQL & Análisis Exploratorio (EDA) | Despliegue en GitHub Pages / Vercel | Educación Científica Accesible |
+| **Tesis:** Hash Perceptual para Voz Cifrada | **Modus Operandi:** *Si la IA lo escribe, yo lo valido.* | **Filosofía:** *Lo que no se conoce, no se cuida.* |
+
+---
+
+### 📌 Proyectos Destacados
+
+| Proyecto | Descripción Técnica | Impacto Social |
+| :--- | :--- | :--- |
+| **[🔊 Perceptual-Hash-Voice](LINK)** | Hash Robusto con Wavelets para autenticación de voz cifrada. | *Aplicable a telemedicina segura y protección de identidad en comunidades vulnerables.* |
+| **[🌲 Deforestacion-EDA](LINK)** | Limpieza de datos satelitales NDVI y visualización de tendencias. | *Herramienta para políticas públicas de conservación y desarrollo sostenible (ODS 15).* |
+| **[📊 EcoPunk Dashboard](LINK)** | React + Recharts para visualizar calidad del aire. | *Monitoreo de salud pública: el aire que respiran las comunidades marginadas.* |
+
+---
+
+### 📚 Certificaciones y Formación Continua
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-CCNA_R&S-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Data_Science_(En_curso)-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSc-Microelectrónica-8B0000?style=for-the-badge&logo=ieee&logoColor=white" />
+</p>
+
+---
+
+### 💡 Mi Brújula Profesional
+
+Mi perfil no es convencional, y eso es justo lo que necesitan en organizaciones o equipos con propósito real:
+
+- **Rigor científico** (Maestría en Microelectrónica, procesamiento de señales).  
+- **Capacidad de traducir complejidad** a tomadores de decisiones y comunidades.  
+- **Propósito genuino:** No quiero solo optimizar clics. Quiero usar datos para mejorar vidas, cerrar brechas de salud y proteger lo que nos sostiene.
+
+Estoy lista para aplicar machine learning a:
+- 🏥 **Salud Pública:** Análisis de señales biomédicas, predicción de brotes, optimización de cadenas de suministro farmacéutico.  
+- 🌎 **Desarrollo Social:** Medición de impacto de programas sociales, análisis de vulnerabilidad climática, datos para ODS.  
+- 🔐 **Seguridad de Datos Sensibles:** Aplicación de criptografía perceptual para proteger información médica o de identidad.
+
+---
+
+### 💬 ¿Tomamos un café virtual?
+
+Busco mi primer rol formal en **Data Science** donde pueda aplicar mi base en procesamiento de señales, mi capacidad de traducir datos complejos en historias claras, y mi pasión por construir tecnología con propósito social.
+
+Si buscas a alguien que entienda el rigor técnico, pero también el poder de una historia bien contada —y que además sabe qué es una máscara de subred y una Transformada Wavelet— **soy esa persona**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nellyrodev/">
+    <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<p align="center">
+  <i>"Del HTML en primaria al Hash Perceptual. De la obligación del PET a la convicción de proteger y sanar."</i> — Nells 🌿
+</p>
