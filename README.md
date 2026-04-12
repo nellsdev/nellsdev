@@ -63,15 +63,14 @@ Recordé el PET. La Agenda 2030. A mi yo de 13 años limpiando la banqueta. Ya n
 
 ---
 
-### 🛠️ El Stack de Nells (Perfil Híbrido)
+### 🛠️ Stack Tecnológico
+*Una base científica sólida + herramientas modernas para construir soluciones de extremo a extremo.*
 
-| 🔬 **Data Science & Señales** | 🖥️ **Prototipado (AI-Assisted)** | 📢 **Divulgación** |
-| :--- | :--- | :--- |
-| Python (Pandas, Sklearn, Librosa) | React / Next.js (Curva acelerada con Cursor) | Contenido Tech & TDAH |
-| MATLAB / Simulink / DSP | Node.js / Flask (Backend ligero) | Comunidad `laagenda.verde` |
-| SQL & Análisis Exploratorio (EDA) | Despliegue en GitHub Pages / Vercel | Educación Científica Accesible |
-| **Tesis:** Hash Perceptual para Voz Cifrada | **Modus Operandi:** *Si la IA lo escribe, yo lo valido.* | **Filosofía:** *Lo que no se conoce, no se cuida.* |
-
+| 🔬 **Data Science** | 🖥️ **Prototype Builder** | 🔧 **Tools & Environment** |
+| :--- | :--- | :---|
+| ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) | ![Pascal](https://img.shields.io/badge/Pascal-%230288d1?style=for-the-badge&logo=lazarus&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) | | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | | ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) |
 ---
 
 ### 📌 Proyectos Destacados
