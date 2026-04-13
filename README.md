@@ -81,8 +81,6 @@ Recordé el PET. La Agenda 2030. A mi yo de 13 años limpiando la banqueta. Ya n
 | Proyecto | Descripción Técnica | Impacto Social |
 | :--- | :--- | :--- |
 | **[🔊 Perceptual-Hash-Voice](LINK)** | Hash Robusto con Wavelets para autenticación de voz cifrada. | *Aplicable a telemedicina segura y protección de identidad en comunidades vulnerables.* |
-| **[🌲 Deforestacion-EDA](LINK)** | Limpieza de datos satelitales NDVI y visualización de tendencias. | *Herramienta para políticas públicas de conservación y desarrollo sostenible (ODS 15).* |
-| **[📊 EcoPunk Dashboard](LINK)** | React + Recharts para visualizar calidad del aire. | *Monitoreo de salud pública: el aire que respiran las comunidades marginadas.* |
 
 ---
 
@@ -139,5 +137,5 @@ Si buscas a alguien que entienda el rigor técnico, pero también el poder de un
 </p>
 
 <p align="center">
-  <i>"Del HTML en primaria al Hash Perceptual. De la obligación del PET a la convicción de proteger y sanar."</i> — Nells 🌿
+  <i>"Lo que no se conoce, no se cuida. No se protege. Por eso traduzco señales en historias, y datos en acción."</i> — Nells 🌿
 </p>
