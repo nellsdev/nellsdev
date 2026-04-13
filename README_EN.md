@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Nells+👩🏽‍💻🌿;From+Signals+to+Data." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Nells+👩🏽‍💻;From+Signals+to+Data.🌿" />
 </h1>
 
 <p align="center">
@@ -75,23 +75,10 @@ I remembered the PET bottles. The 2030 Agenda. My 13-year-old self cleaning the 
 | | | ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) |
 | | | ![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Visio](https://img.shields.io/badge/Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) |
 
-<details>
-<summary><b>📌 Additional & In-Progress Skills</b></summary>
-
-<br>
-
-**Academic Specialization:**
-- **Digital Signal Processing (DSP):** MATLAB, Simulink, FFT, Wavelets, Digital Filters.
-- **Cryptography:** Perceptual hashing, multimedia file authentication, voice encryption.
-- **Networking:** Cisco CCNA Routing & Switching.
-- **Legacy Languages:** Java, Visual Basic (my logical foundation).
-
 **Active Learning:**
 - ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white) Containerization for model deployment.
 - ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=flat-square&logo=plotly&logoColor=white) Interactive visualization for dashboards.
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white) APIs for serving ML models.
-
-</details>
 
 ---
 
