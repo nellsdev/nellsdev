@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nellyrodev/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nellyrodev/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@nells_it01"><img src="https://img.shields.io/badge/TikTok-@nells_it01-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
   <a href="https://www.instagram.com/nells_it/"><img src="https://img.shields.io/badge/IG-@nells_it-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:nrodriguezo2301@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -122,7 +122,7 @@ I'm looking for my first formal **Data Science** role where I can apply my found
 If you're looking for someone who understands technical rigor but also the power of a well-told story—and also knows what a subnet mask and a Wavelet Transform are—**I'm that person**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nellyrodev/">
+  <a href="https://www.linkedin.com/in/nellyrodev/?locale=en_US">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
