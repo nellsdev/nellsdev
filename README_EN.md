@@ -5,18 +5,18 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Nells+👩🏽‍💻🌿;From+Signals+to+Data.;From+HTML+to+Social+Impact." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+I'm+Nells+👩🏽‍💻🌿;From+Signals+to+Data." />
 </h1>
 
 <p align="center">
-  <i>Data Scientist · MSc Microelectronics (DSP & Crypto) · Building tech for social impact, health & climate 🌎</i>
+  <i> Computer Engineering · MSc Microelectronics · Data Scientist · Building tech for social impact, health & climate 🌎</i>
 </p>
 
 <p align="center">
-  <a href="TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="TU_INSTAGRAM"><img src="https://img.shields.io/badge/IG-@eco.punk.dev-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="TU_TIKTOK"><img src="https://img.shields.io/badge/TikTok-@nells_it-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nellyrodev/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@nells_it01"><img src="https://img.shields.io/badge/TikTok-@nells_it01-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.instagram.com/nells_it/"><img src="https://img.shields.io/badge/IG-@nells_it-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:nrodriguezo2301@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -100,8 +100,6 @@ I remembered the PET bottles. The 2030 Agenda. My 13-year-old self cleaning the 
 | Project | Technical Description | Social Impact |
 | :--- | :--- | :--- |
 | **[🔊 Perceptual-Hash-Voice](LINK)** | Robust Wavelet-based Hashing for encrypted voice authentication. | *Applicable to secure telemedicine and identity protection in vulnerable communities.* |
-| **[🌲 Deforestation-EDA](LINK)** | NDVI satellite data cleaning and interactive trend visualization. | *Tool for conservation public policy and sustainable development (SDG 15).* |
-| **[📊 EcoPunk Dashboard](LINK)** | React + Recharts for air quality visualization. | *Public health monitoring: the air breathed by marginalized communities.* |
 
 ---
 
@@ -137,7 +135,7 @@ I'm looking for my first formal **Data Science** role where I can apply my found
 If you're looking for someone who understands technical rigor but also the power of a well-told story—and also knows what a subnet mask and a Wavelet Transform are—**I'm that person**.
 
 <p align="center">
-  <a href="TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nellyrodev/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -145,14 +143,10 @@ If you're looking for someone who understands technical rigor but also the power
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117" alt="Nells GitHub stats" />
-</p>
-
-<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nellsdev/nellsdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nellsdev/nellsdev/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/nellsdev/nellsdev/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
