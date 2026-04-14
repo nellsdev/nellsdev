@@ -86,7 +86,7 @@ I remembered the PET bottles. The 2030 Agenda. My 13-year-old self cleaning the 
 
 | Project | Technical Description | Social Impact |
 | :--- | :--- | :--- |
-| **[🔊 Perceptual-Hash-Voice](LINK)** | Robust Wavelet-based Hashing for encrypted voice authentication. | *Applicable to secure telemedicine and identity protection in vulnerable communities.* |
+| **🔊 Perceptual-Hash-for-Encrypted-Speech-Authentication** | Robust Wavelet-based Hashing for encrypted voice authentication. | *Applicable to secure telemedicine and identity protection in vulnerable communities.* |
 
 ---
 
