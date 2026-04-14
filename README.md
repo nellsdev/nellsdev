@@ -80,7 +80,7 @@ Recordé el PET. La Agenda 2030. A mi yo de 13 años limpiando la banqueta. Ya n
 
 | Proyecto | Descripción Técnica | Impacto Social |
 | :--- | :--- | :--- |
-| **[🔊 Perceptual-Hash-Voice](LINK)** | Hash Robusto con Wavelets para autenticación de voz cifrada. | *Aplicable a telemedicina segura y protección de identidad en comunidades vulnerables.* |
+| **🔊 Perceptual-Hash-for-Encrypted-Speech-Authentication** | Hash Robusto con análisis espectral para autenticación de voz cifrada. | *Aplicable a telemedicina segura y protección de identidad en comunidades vulnerables.* |
 
 ---
 
