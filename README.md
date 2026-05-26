@@ -121,7 +121,7 @@ Busco mi primer rol formal en **Data Science** donde pueda aplicar mi base en pr
 Si buscas a alguien que entienda el rigor técnico, pero también el poder de una historia bien contada —y que además sabe qué es una máscara de subred y una Transformada Wavelet— **soy esa persona**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nellyrodev/">
+  <a href="https://www.linkedin.com/in/nellsdev/">
     <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
