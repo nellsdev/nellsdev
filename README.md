@@ -81,6 +81,7 @@ Recordé el PET. La Agenda 2030. A mi yo de 13 años limpiando la banqueta. Ya n
 | Proyecto | Descripción Técnica | Impacto Social |
 | :--- | :--- | :--- |
 | **🔊 Hash-Perceptual-para-Autenticación-de-Audios-Vocales-Cifrados** | Hash Robusto con análisis espectral para autenticación de voz cifrada. | *Aplicable a telemedicina segura y protección de identidad en comunidades vulnerables.* |
+|**🌳 Dos Méxicos bajo el mismo sol** | Análisis de islas de calor, desigualdad verde y salud pública en CDMX | *Este proyecto transforma la desigualdad verde de la CDMX —un problema que se intuye pero no se mide— en evidencia cuantificable, integrando datos satelitales, epidemiológicos y de percepción ciudadana para visibilizar cómo la falta de árboles no es un problema estético, sino una crisis de salud pública, justicia ambiental y bienestar emocional que afecta desproporcionadamente a la población más vulnerable de la periferia nororiente.*|
 
 ---
 
