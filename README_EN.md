@@ -87,6 +87,7 @@ I remembered the PET bottles. The 2030 Agenda. My 13-year-old self cleaning the 
 | Project | Technical Description | Social Impact |
 | :--- | :--- | :--- |
 | **🔊 Perceptual-Hash-for-Encrypted-Speech-Authentication** | Robust Wavelet-based Hashing for encrypted voice authentication. | *Applicable to secure telemedicine and identity protection in vulnerable communities.* |
+| **🌳 Two Mexico below the same sun** | Analysis of heat islands, green inequality and public health in Mexico City | *This project transforms Mexico City’s ‘green inequality’—a problem that is sensed but not measured—into quantifiable data, integrating satellite, epidemiological and public perception data to demonstrate that the lack of trees is not merely an aesthetic issue, but a crisis of public health, environmental justice and emotional well-being that disproportionately affects the most vulnerable populations in the north-eastern outskirts.*
 
 ---
 
